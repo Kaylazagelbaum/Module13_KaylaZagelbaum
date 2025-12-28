@@ -1,4 +1,3 @@
-from functools import total_ordering
 
 import matplotlib.pyplot as plt
 import os
